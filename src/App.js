@@ -17,9 +17,12 @@ function App() {
      <HeroSection />
      <Categories />
      <Campaigns />
+     <div className="container  mx-auto">
      <Favorites />
      <MobileApp />
      <Cards />
+
+     </div>
      <Footer />
     
     </>
